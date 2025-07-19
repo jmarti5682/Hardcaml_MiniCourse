@@ -3,5 +3,6 @@ For this week I worked on solving the truth table given to us and implementing i
 
 ## Overview: 
   Here is the truth table: 
-
-<img src = "../assets/truth_table_1.JPG" width = "500"/>
+<div align = "center">
+  <img src = "../assets/truth_table_1.JPG" width = "500"/>
+</div>div>

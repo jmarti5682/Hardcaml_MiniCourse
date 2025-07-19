@@ -1,5 +1,5 @@
 # Week 2: Work on your own
-For this week I worked on solving the truth table given to us and implementing it into Hardcaml, where I then flashed it onto the FPGA (NEXYS A7). The soultion is provided in this readme, albeit a little messy, but none the less correct.
+For this week I worked on solving the truth table given to us and implementing it into Hardcaml, where I then flashed it onto the FPGA (NEXYS A7). The soultion is provided in work.pdf, albeit a little messy, but none the less correct.
 
 ## Overview: 
 I am creating a 5-input Boolean expression based off the truth table below. I went with 1-bit inputs for A, B, C, D, and E using combinational logic. 

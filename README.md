@@ -3,6 +3,8 @@ Work based off the Hardcaml minicourse at Stevens.
 
 ### Week 2:
 [Week2-Project](Week2-Project/README.md)
+### Week 4: 
+[Week4-Project](Week4/README.md)
 
 ### Resources: 
 

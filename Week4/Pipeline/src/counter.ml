@@ -41,7 +41,7 @@ let board () =
        ; reset  = switches.:[0, 0]
        ; clear  = switches.:[1, 1]
        ; enable = switches.:[2, 2]
-       ; d      = switches.:[6, 3] (*First Data Input*) (*3 Bit*) (*DDF1 = First Value*)
+       ; d      = switches.:[6, 3] (*First Data Input*) (*4 Bit*) (*DDF1 = First Value*)
        })
       .q
   in
@@ -51,7 +51,7 @@ let board () =
       ; reset  = switches.:[0, 0]
       ; clear  = switches.:[1, 1]
       ; enable = switches.:[2, 2]
-      ; d      = switches.:[10, 7]   (*Second Data Input*) (*3 Bit*) (*DFF2 = Second Value*)
+      ; d      = switches.:[10, 7]   (*Second Data Input*) (*4 Bit*) (*DFF2 = Second Value*)
       })
       .q
   in

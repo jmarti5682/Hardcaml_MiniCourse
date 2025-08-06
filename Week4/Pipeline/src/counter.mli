@@ -7,13 +7,13 @@ module I : sig
     ; reset  : 'a
     ; clear  : 'a
     ; enable : 'a
-    ; d      : 'a [@bits 3]
+    ; d      : 'a [@bits 4]
     }
   [@@deriving hardcaml]
 end
 
 module O : sig
-  type 'a t = { q : 'a [@bits 3]} [@@deriving hardcaml]
+  type 'a t = { q : 'a [@bits 4]} [@@deriving hardcaml]
 end
 
 val create : Interface.Create_fn(I)(O).t

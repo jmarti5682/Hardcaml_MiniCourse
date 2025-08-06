@@ -1,6 +1,9 @@
 # Hardcaml_MiniCourse
 Work based off the Hardcaml minicourse at Stevens. 
 
+### Week 2:
+[Week2-Project](Week2-Project/README.md)
+
 ### Resources: 
 
 [Mini Course at Stevens](https://github.com/Hardcaml-Mini-Course-at-Stevens)
